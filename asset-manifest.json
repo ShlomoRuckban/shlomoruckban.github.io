@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6eecc90.css",
+    "main.js": "/static/js/main.a96db141.js",
+    "static/js/787.b8c81d28.chunk.js": "/static/js/787.b8c81d28.chunk.js",
+    "static/media/ListingScreen.png": "/static/media/ListingScreen.e31c7b6307ed0ee5bf78.png",
+    "static/media/ListingDetailScreen.png": "/static/media/ListingDetailScreen.40ca240a9ff3ca049350.png",
+    "static/media/WelcomeScreen.png": "/static/media/WelcomeScreen.7050016e622be2ab1f17.png",
+    "static/media/FilledNewListingScreen.png": "/static/media/FilledNewListingScreen.886828d7a5c75a756c1c.png",
+    "static/media/NotificationBox.png": "/static/media/NotificationBox.8ffe0f3566da9a767cae.png",
+    "static/media/AccountScreen.png": "/static/media/AccountScreen.12c90a38bc18fbe9e5c2.png",
+    "static/media/MessagesScreen.png": "/static/media/MessagesScreen.224549bc46c93f1c6871.png",
+    "static/media/CategoriesScreen.png": "/static/media/CategoriesScreen.dc2dd3d51dc025d057d9.png",
+    "static/media/LoginScreen.png": "/static/media/LoginScreen.ae290dd52eacd66064ff.png",
+    "static/media/NewListingScreen.png": "/static/media/NewListingScreen.af310b19c34414a78e90.png",
+    "static/media/profile.png": "/static/media/profile.993a8499629663bbda8c.png",
+    "static/media/RegisterScreen.png": "/static/media/RegisterScreen.22e3a49a58e3926c8078.png",
+    "static/media/MainPostsAndTasks.png": "/static/media/MainPostsAndTasks.60b5e01d92e6989cbee4.png",
+    "static/media/MainPage.png": "/static/media/MainPage.74771bda6e2e30f794c5.png",
+    "static/media/EditStudent.png": "/static/media/EditStudent.b0aa95e97d9401b2ed93.png",
+    "static/media/Grades.png": "/static/media/Grades.c0f0935938d4e5634992.png",
+    "static/media/NewStudent.png": "/static/media/NewStudent.492c0f85ee0810652371.png",
+    "static/media/UserDetails.png": "/static/media/UserDetails.5fdc9e3f49f231d36698.png",
+    "static/media/NewTask.png": "/static/media/NewTask.517b14b5712fb21bed3b.png",
+    "index.html": "/index.html",
+    "main.a6eecc90.css.map": "/static/css/main.a6eecc90.css.map",
+    "main.a96db141.js.map": "/static/js/main.a96db141.js.map",
+    "787.b8c81d28.chunk.js.map": "/static/js/787.b8c81d28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6eecc90.css",
+    "static/js/main.a96db141.js"
+  ]
+}
